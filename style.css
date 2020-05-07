@@ -1,0 +1,485 @@
+.header1 {
+    background-color: #316dc3;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+}
+
+.header1p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: white;
+    padding-top: 25px;
+}
+
+.buttonukdonor, .buttondonatenow, .buttonsmitresults {
+    border-color: #006618;
+    color: #006618;
+    font-size: medium;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttonukdonor {
+    position: absolute;
+    top: 25px;
+    right: 270px;
+}
+
+.buttondonatenow {
+    position: absolute;
+    top: 25px;
+    right: 160px;
+}
+
+.buttonsmitresults {
+    position: absolute;
+    top: 25px;
+    right: 40px;
+}
+
+.header2 {
+    background-color: #f7f8fa;
+    height: 70px;
+    width: 100%;
+}
+
+.homebutton {
+    background-color: #316dd9;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-radius: 17px;
+    width: 70px;
+    height: 35px;
+}
+
+.aboutbutton {
+    cursor: pointer;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-radius: 17px;
+    width: 70px;
+    height: 35px;
+    color: black;
+}
+
+button:hover {
+    background-color: #316dd9;
+    color: white;
+}
+
+.saylaniservicesbutton {
+    cursor: pointer;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-radius: 17px;
+    width: 120px;
+    height: 35px;
+    color: black;
+}
+
+.futureprojectbutton {
+    cursor: pointer;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-radius: 17px;
+    width: 110px;
+    height: 35px;
+    color: black;
+}
+
+.mediabutton {
+    cursor: pointer;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-radius: 17px;
+    width: 70px;
+    height: 35px;
+    color: black;
+}
+
+.newsbutton {
+    cursor: pointer;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-radius: 17px;
+    width: 70px;
+    height: 35px;
+    color: black;
+}
+
+.donationbutton {
+    cursor: pointer;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    border-radius: 17px;
+    width: 90px;
+    height: 35px;
+    color: black;
+}
+
+.blue {
+    background-color: #316dc3;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 1200px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 90px;
+    padding-top: 6px;
+}
+
+.green {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    color: #14c44f;
+}
+
+.white {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    color: #e3ebf7;
+}
+
+h1 {
+    text-align: center;
+}
+
+img.logo {
+    margin-left: 640px;
+}
+
+.introduction {
+    background-color: #f7f8fa;
+    height: 700px;
+    width: 1340px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+.bluebox {
+    background-color: #2655e8;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.educationlogo {
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin-top: 70px;
+    font-size: x-large;
+}
+
+.medicallogo {
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin-top: 70px;
+    font-size: x-large;
+}
+
+.familyadoptionlogo {
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin-top: 70px;
+    font-size: x-large;
+}
+
+.dailydastrakhanlogo {
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin-top: 70px;
+    font-size: x-large;
+}
+
+h2 {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.whatwearedoingbox1 {
+    background-color: #f7f8fa;
+    height: 150px;
+    width: 1340px;
+}
+
+.whatwearedoing2 {
+    /* height: 450px; */
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #f7f8fa;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.whatwearedoing2 div {
+    width: 30.33%;
+    margin: 10px;
+}
+
+.whatwearedoing3 {
+    height: 250px;
+    width: 1340px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #f7f8fa;
+}
+
+h1 {
+    padding-top: 30px;
+    margin-top: 1px;
+}
+
+.onlinesadqah {
+    background-color: #fff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    box-shadow: lightgray 5px 5px 9px 4px;
+    cursor: pointer;
+    color: #316dc3;
+}
+
+.welfare {
+    background-color: #fff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    cursor: pointer;
+    box-shadow: lightgray 5px 5px 9px 4px;
+    color: #316dc3;
+}
+
+.medical {
+    background-color: #fff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    cursor: pointer;
+    box-shadow: lightgray 5px 5px 9px 4px;
+    color: #316dc3;
+}
+
+.dastrakhwan {
+    background-color: #fff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    box-shadow: lightgray 5px 5px 9px 4px;
+    cursor: pointer;
+    color: #316dc3;
+}
+
+.roplant {
+    background-color: #fff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    box-shadow: lightgray 5px 5px 9px 4px;
+    color: #316dc3;
+    cursor: pointer;
+}
+
+.education {
+    background-color: #fff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    margin-bottom: 80px;
+    box-shadow: lightgray 5px 5px 9px 4px;
+    cursor: pointer;
+}
+
+.missionandupcomingproject {
+    border: 1px solid black;
+    width: 700px;
+    height: 400px;
+}
+
+.missionandupcomingprojectheading {
+    color: #316dc3;
+    text-align: left;
+    padding-left: 50px;
+    font-size: large;
+}
+
+.hepatitisandhousingsoietyboxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hepatitis {
+    width: 330px;
+    height: 70px;
+    background-color: #f7f8fa;
+    border: 1px solid #eeeeee;
+}
+
+.hepatitisheading {
+    color: #316dc3;
+    font-size: larger;
+    display: inline;
+}
+
+.housingsociety {
+    width: 330px;
+    height: 70px;
+    background-color: #f7f8fa;
+    border: 1px solid #eeeeee;
+}
+
+.housingsoietyheading {
+    color: #316dc3;
+    font-size: larger;
+    display: inline;
+}
+
+.itliteracy {
+    width: 330px;
+    height: 70px;
+    background-color: #f7f8fa;
+    border: 1px solid #eeeeee;
+}
+
+.itliteracyheading {
+    color: #316dc3;
+    font-size: larger;
+    display: inline;
+}
+
+.itlietrayandtharparkerboxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tharparker {
+    width: 330px;
+    height: 70px;
+    background-color: #f7f8fa;
+    border: 1px solid #eeeeee;
+}
+
+.tharparkerheading {
+    color: #316dc3;
+    font-size: larger;
+    display: inline;
+}
+
+.upcomingevemts {
+    width: 70px;
+    height: 350;
+}
+
+.imagegalleryheader {
+    text-align: center;
+    padding-top: 205px;
+}
+
+.bottombox {
+    background-color: #25272e;
+    width: 100%;
+    height: 300px;
+}
+
+.bottombox1 {
+    padding-top: 70px;
+    color: #b7b7b7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.bottomboxusefulllinks {
+    text-align: center;
+    color: white;
+}
+
+.bottombluebox {
+    background-color: #316dd9;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 50px;
+    padding-top: 1px;
+}
+
+/* 
+.gototop {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    bottom: 0px;
+} */
+
+/* Custom CSS */
+
+.fourthsection {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.missionandupcomingproject {
+    width: 60%;
+}
+
+.upcomingevents {
+    width: 30%;
+    height: 300px;
+}
+
+.fourthsection {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+
+.icons-main {
+    position: absolute;
+    top: 20px;
+}
+
+.icons-main i {
+    margin: 0px 10px 5px 10px;
+    color: white;
+}
+
+.bottombox2 {
+    color: white;
+}
+
+.bottombox {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
